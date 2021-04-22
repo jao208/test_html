@@ -6,7 +6,7 @@
 	var date = new Date()
 	date.setDate(date.getDate()-10*7);
     document.write(  ((date.getDate() > 9) ? date.getDate() : ('0' + date.getDate())) + '/' + ( (date.getMonth() > 8) ? (date.getMonth() + 1) : ('0' + (date.getMonth() + 1))) + '/' + date.getFullYear() );
-</script></em>, when you started this study),<strong> and if so how often you&rsquo;ve used them. It would also be helpful for us to know if you have had any time off from work due to illness.</strong></p>
+</script></em>,<strong> and if so how often you&rsquo;ve used them. It would also be helpful for us to know if you have had any time off from work due to illness.</strong></p>
         <p style="font-size:13px;">You may not have used any services listed in this questionnaire but it would still be helpful for us to know this, so <strong>please select &lsquo;No&rsquo; if you haven&rsquo;t used a service</strong>.</p>
         <p style="font-size:13px;">We understand that you may not remember the exact number of appointments or times, but please give us your best guess.</p>
     </div>
